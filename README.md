@@ -25,24 +25,6 @@ These files are used across different sections of the midterm. Since their sizes
 
 ---
 
-## Repository Structure
-
-Machine-Learning-Midterm/
-│
-├── notebooks/
-│ ├── UTS_Regression.ipynb
-│ ├── UTS_Classification.ipynb
-│ ├── UTS_Clustering.ipynb
-│ └── (more files depending on tasks)
-│
-├── README.md
-├── LICENSE
-└── .gitignore
-
-> *You can adjust the notebook names later based on the exact midterm instructions.*
-
----
-
 ## Midterm Summary
 
 This midterm consists of tasks designed to evaluate understanding of core Machine Learning concepts:
