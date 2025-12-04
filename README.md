@@ -13,7 +13,7 @@ To keep everything accessible, all datasets used in this midterm are stored on G
 All datasets required for the midterm tasks can be downloaded from the link below:
 
 👉 **Google Drive Folder:**  
-https://drive.google.com/your-dataset-link-here
+(https://drive.google.com/drive/folders/1QLLxdfzGGystgrTS-RkiByVhiq3jnJ1h?usp=drive_link)
 
 **Included datasets:**  
 - `clusteringmidterm.csv`  
