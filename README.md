@@ -81,11 +81,16 @@ Because the datasets are large, it is recommended to use **Google Colab**.
 ```python
 from google.colab import drive
 drive.mount('/content/drive')
+```
 3. Load your dataset:
+```python
 import pandas as pd
 df = pd.read_csv('/content/drive/MyDrive/Machine-Learning-Midterm-Datasets/train_transaction.csv')
 df.head()
-4. Run the models and complete the analysis according to the instructions.
+```
+4. Run the models and complete the analysis to the instructions.
+
+---
 
 ## Tools & Libraries
 
@@ -96,6 +101,8 @@ df.head()
 - Seaborn
 - Scikit-Learn
 - Google Colab
+
+---
 
 ## License
 
