@@ -205,7 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
 
 datasets/
 *.csv
 *.zip
+=======
+>>>>>>> d9d2a610ab90f19db1ffc57530be532d82a061e3
