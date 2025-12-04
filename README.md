@@ -1,10 +1,8 @@
 # Machine Learning Midterm – Telkom University
 
-This repository contains my work for the **Machine Learning Midterm Examination** at **Telkom University**.  
-All tasks follow the instructions provided by the lecturer and cover multiple topics including regression, classification, clustering, and model evaluation.
+This repository contains my work for the **Machine Learning Midterm Examination** at **Telkom University**. All tasks follow the instructions provided by the lecturer and cover multiple topics including regression, classification, clustering, and model evaluation.
 
-Because several datasets exceed GitHub’s file size limit, they **cannot be uploaded directly to the repository**.  
-To keep everything accessible, all datasets used in this midterm are stored on Google Drive.
+Because several datasets exceed GitHub’s file size limit, they **cannot be uploaded directly to the repository**. To keep everything accessible, all datasets used in this midterm are stored on Google Drive.
 
 ---
 
