@@ -28,27 +28,27 @@ These files are used across different sections of the midterm. Since their sizes
 This midterm consists of tasks designed to evaluate understanding of core Machine Learning concepts:
 
 ### 1. Regression Task
-- Exploratory Data Analysis (EDA)
-- Data preprocessing & feature selection
-- Model development (Linear Regression, etc.)
-- Performance evaluation using RMSE, MAE, R²
-- Error analysis & interpretation
+- Exploratory Data Analysis (EDA).
+- Data preprocessing & feature selection.
+- Model development (Linear Regression, etc.).
+- Performance evaluation using RMSE, MAE, R².
+- Error analysis & interpretation.
 
 ### 2. Classification Task
-- Handling imbalanced data
-- Feature engineering
-- Model comparison (e.g., Random Forest, Logistic Regression)
-- Confusion matrix, ROC-AUC, accuracy analysis
+- Handling imbalanced data.
+- Feature engineering.
+- Model comparison (e.g., Random Forest, Logistic Regression).
+- Confusion matrix, ROC-AUC, accuracy analysis.
 
 ### 3. Clustering Task
-- Unsupervised learning with K-Means / Hierarchical clustering
-- Finding optimal number of clusters (Elbow, Silhouette Score)
-- Visualization and cluster interpretation
+- Unsupervised learning with K-Means / Hierarchical clustering.
+- Finding optimal number of clusters (Elbow, Silhouette Score).
+- Visualization and cluster interpretation.
 
 ### 4. Discussion & Conclusion
-- Key findings from each model
-- Comparison between methods
-- Insights gained from the dataset
+- Key findings from each model.
+- Comparison between methods.
+- Insights gained from the dataset.
 
 ---
 
