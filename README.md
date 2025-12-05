@@ -72,6 +72,13 @@ df.head()
 
 ---
 
+## Open Notebooks in Colab
+- [UTS_Regression.ipynb](https://colab.research.google.com/github/kinanpta/Machine-Learning-Midterm/blob/main/notebooks/UTS_Regression.ipynb)
+- [UTS_Clustering.ipynb](https://colab.research.google.com/github/kinanpta/Machine-Learning-Midterm/blob/main/notebooks/UTS_Clustering.ipynb)
+- [UTS_FraudDetection.ipynb](https://colab.research.google.com/github/kinanpta/Machine-Learning-Midterm/blob/main/notebooks/UTS_FraudDetection.ipynb)
+
+---
+
 ## Tools & Libraries
 
 - Python 3.x
